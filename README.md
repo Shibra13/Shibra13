@@ -1,6 +1,9 @@
 # 💫 About Me
 👋 Hi there, I'm Shibra Jamal<br><br>Full-Stack Developer with a focus on creating scalable and user-friendly web applications.  <br>Focused on building real-world applications using the MERN stack.<br>🎓 Currently pursuing a Bachelor of Information and Communication Technology (Hons) at Uva Wellassa University of Sri Lanka.<br><br>💡 I enjoy turning ideas into functional products through clean and efficient code.  <br>🚀 Code. Build. Improve. Repeat.
 
+## 🚀 Projects
+- Job Portal Web App (MERN)
+- Restaurant Reservation System
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/𝚂𝚑𝚒𝚋𝚛𝚊-𝙹𝚊𝚖𝚊𝚕-45b2172b5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shibrajamal918@gmail.com) 
@@ -12,8 +15,6 @@
 ![](https://streak-stats.demolab.com/?user=Shibra13&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shibra13&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shibra13&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
